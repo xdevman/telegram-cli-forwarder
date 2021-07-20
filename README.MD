@@ -1,4 +1,4 @@
-bakcup telegram channel
+backup telegram channel
 
 1- Get api ID/Hash From:
 
